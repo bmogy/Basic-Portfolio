@@ -6,7 +6,7 @@ body{
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;;
     }
     p{
-    color: #777777;
+    color: #777777
     }
     h1{
     color: #4aaaa5;
@@ -171,28 +171,31 @@ left: 0;
 background-color: #4aaaa5;
 padding: 10px;
 text-align: center;
+color: #e6f9fa;
 }
 .row-1 .box .p-statement{
 width: 100%;
-color: white;
+
 }
 .row-2 .box .p-statement p{
   background-color: #4aaaa5;
   padding: 10px;
   text-align: center;
+  color: #e6f9fa;
   }
   .row-2 .box .p-statement{
   width: 100%;
-  color: white;
+
   }
   .row-3 .box .p-statement p{
     background-color: #4aaaa5;
     padding: 10px;
     text-align: center;
+    color: #e6f9fa;
     
     }
     .row-3 .box .p-statement{
     width: 100%;
-    color: white;
+ 
     }
     /* Gallary ends*/
