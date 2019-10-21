@@ -68,7 +68,7 @@ display: inline-block;
   .container{
 
   background-image: url("../images/herringbone.png");
-  position: fixed;
+  
   background-repeat: no-repeat;
   background-size: cover;
   margin-top:0;
@@ -119,8 +119,8 @@ margin-top: 15px;
 /*h1 block ends */
 /* footer begins*/
 footer{
-position: fixed;
-bottom: 0;
+
+
 background-color: #666666;
 width: 100%;
 height: 50px;
