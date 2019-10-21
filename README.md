@@ -1,1 +1,1 @@
-# Basic-Portfolio
+My app contains an about me page, portfolio page, and a contact page. New users can learn about Brian Mogy and view some of his favorite photos. New user can also, submit a form if they need to get in contact with Brian Mogy. 
